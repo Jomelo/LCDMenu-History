@@ -1,0 +1,32 @@
+#######################################
+# Syntax Coloring Map Menu
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+LCDMenu	    KEYWORD1
+LCDMenuLib  KEYWORD1
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+addChild	KEYWORD2
+getChild	KEYWORD2
+getSibling	KEYWORD2
+getParent	KEYWORD2
+
+unlook      KEYWORD2
+look        KEYWORD2
+setCursor   KEYWORD2
+doScroll    KEYWORD2
+goMenu      KEYWORD2
+goUp        KEYWORD2
+goDown      KEYWORD2
+goBack      KEYWORD2
+goEnter     KEYWORD2
+display     KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################

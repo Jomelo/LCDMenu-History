@@ -1,0 +1,94 @@
+#######################################
+# Syntax Coloring Map Menu
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+LcdMenu	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+addChild	KEYWORD2
+getChild	KEYWORD2
+getSibling	KEYWORD2
+getParent	KEYWORD2
+
+unlook	KEYWORD2
+look	KEYWORD2
+setCursor	KEYWORD2
+doScroll	KEYWORD2
+goMenu	KEYWORD2
+goUp	KEYWORD2
+goDown	KEYWORD2
+goBack	KEYWORD2
+goEnter	KEYWORD2
+display	KEYWORD2
+
+
+LCDMenuLib_LiquidCrystal	KEYWORD2
+LCDMenuLib_LiquidCrystal_I2C	KEYWORD2
+
+LCDMenuLib	KEYWORD2
+LCDMenuLib_element	KEYWORD2
+LCDMenuLib_init	KEYWORD2
+LCDMenuLib_initObjects	KEYWORD2
+LCDMenuLib_initFunction	KEYWORD2
+LCDMenuLib_lang	KEYWORD2
+LCDMenuLib_setup	KEYWORD2
+LCDMenuLib_loop	KEYWORD2
+LCDMenuLib_ButtonSerial	KEYWORD2
+LCDMenuLib_ButtonAnalog	KEYWORD2
+LCDMenuLib_createMenu	KEYWORD2
+LCDMenuLib_menu_struct	KEYWORD2
+LCDMenuLib_jumpToFunc	KEYWORD2
+
+Button_enter	KEYWORD2
+Button_up	KEYWORD2
+Button_down	KEYWORD2
+Button_left	KEYWORD2
+Button_right	KEYWORD2
+Button_quit	KEYWORD2
+Timer	KEYWORD2
+FuncInit	KEYWORD2
+FuncEnd	KEYWORD2
+checkButtons	KEYWORD2
+resetButtons	KEYWORD2
+FUNC	KEYWORD2
+FUNC_init_screen	KEYWORD2
+Item	KEYWORD2
+lcd	KEYWORD3
+LCDML	KEYWORD3
+
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+_LCDMenuLib_cols	LITERAL1
+_LCDMenuLib_rows	LITERAL1
+_LCDMenuLib_PIN_rs	LITERAL1
+_LCDMenuLib_PIN_e	LITERAL1
+_LCDMenuLib_PIN_dat4	LITERAL1
+_LCDMenuLib_PIN_dat5	LITERAL1
+_LCDMenuLib_PIN_dat6	LITERAL1
+_LCDMenuLib_PIN_dat7	LITERAL1
+_LCDMenuLib_I2C_address	LITERAL1
+_LCDMenuLib_cnt	LITERAL1
+_LCDMenuLib_ENABLE_INIT_SCREEN	LITERAL1
+_LCDMenuLib_INIT_SCREEN_TIME	LITERAL1
+_BUTTON_press_time	LITERAL1
+_BUTTON_PIN	LITERAL1
+_BUTTON_enter_min	LITERAL1
+_BUTTON_enter_max	LITERAL1
+_BUTTON_up_min	LITERAL1
+_BUTTON_up_max	LITERAL1
+_BUTTON_down_min	LITERAL1
+_BUTTON_down_max	LITERAL1
+_BUTTON_left_min	LITERAL1
+_BUTTON_left_max	LITERAL1
+_BUTTON_right_min	LITERAL1
+_BUTTON_right_max	LITERAL1
+_BUTTON_back_min	LITERAL1
+_BUTTON_back_max	LITERAL1
